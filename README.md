@@ -5,4 +5,7 @@ We model Emergency Medical Service (EMS) demand across the ZIPs of New York City
 ## Methodology
 ![Diagram](diagrams/architecture_diagram.png)
 
+## Interactive Dashboard
+[Dashboard](https://webspace.csumb.edu/~krom2772/CARE-EMS/ems.html) - Explore historical and next-hour EMS call demand forecasts across NYC ZIP code zones, showing predicted call volumes, risk status, and a spatial demand map to support zone-level resource planning.
+
 
